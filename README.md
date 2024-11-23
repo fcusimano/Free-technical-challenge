@@ -8,6 +8,9 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
+
 ## Note
 
 Input data not included.
+Code -> `analysis.ipynb`.
+Presentation -> `Conclusions.pdf`.
